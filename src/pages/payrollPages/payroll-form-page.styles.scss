@@ -1,0 +1,52 @@
+.form-page {
+	display: flex;
+	background-color: lightblue;
+
+	.leftside-menu-block {
+		width: 500px;
+		height: 900px;
+		background-color: rgb(255, 255, 255);
+		border: 0.5px solid rgb(141, 136, 136);
+		padding: 0 0 0 8px;
+	}
+
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		:hover {
+			cursor: pointer;
+			background-color: black;
+			color: white;
+		}
+	}
+	.rightside-menu-form {
+		background-color: rgb(255, 255, 255);
+		flex-grow: 1;
+		padding: 0 10px;
+		display: flex;
+		flex-direction: column;
+		.topbar-menu {
+			padding: 0 0 0 5px;
+			background-color: rgb(255, 255, 255);
+		}
+		.form-container {
+			background-color: rgb(255, 255, 255);
+			display: flex;
+
+			.form-main-container {
+				background-color: rgb(255, 255, 255);
+				flex-grow: 1;
+				.contractor-registration-form {
+					display: flex;
+					flex-wrap: wrap;
+					justify-content: space-between;
+				}
+				.form-input {
+					margin: 0;
+					width: 250px;
+				}
+			}
+		}
+	}
+}
