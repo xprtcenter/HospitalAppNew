@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/HospitalAppNew/static/css/main.e101a904.chunk.css",
-    "main.js": "/HospitalAppNew/static/js/main.16a895bc.chunk.js",
-    "main.js.map": "/HospitalAppNew/static/js/main.16a895bc.chunk.js.map",
-    "runtime-main.js": "/HospitalAppNew/static/js/runtime-main.e3a77a8d.js",
-    "runtime-main.js.map": "/HospitalAppNew/static/js/runtime-main.e3a77a8d.js.map",
-    "static/js/2.94715892.chunk.js": "/HospitalAppNew/static/js/2.94715892.chunk.js",
-    "static/js/2.94715892.chunk.js.map": "/HospitalAppNew/static/js/2.94715892.chunk.js.map",
-    "index.html": "/HospitalAppNew/index.html",
-    "static/css/main.e101a904.chunk.css.map": "/HospitalAppNew/static/css/main.e101a904.chunk.css.map",
-    "static/js/2.94715892.chunk.js.LICENSE.txt": "/HospitalAppNew/static/js/2.94715892.chunk.js.LICENSE.txt",
-    "static/media/notification.aa7495e9.svg": "/HospitalAppNew/static/media/notification.aa7495e9.svg",
-    "static/media/swami2.808446dc.png": "/HospitalAppNew/static/media/swami2.808446dc.png"
+    "main.css": "/static/css/main.c5407f27.chunk.css",
+    "main.js": "/static/js/main.b0b681ea.chunk.js",
+    "main.js.map": "/static/js/main.b0b681ea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.da57d069.js",
+    "runtime-main.js.map": "/static/js/runtime-main.da57d069.js.map",
+    "static/js/2.f744ceba.chunk.js": "/static/js/2.f744ceba.chunk.js",
+    "static/js/2.f744ceba.chunk.js.map": "/static/js/2.f744ceba.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c5407f27.chunk.css.map": "/static/css/main.c5407f27.chunk.css.map",
+    "static/js/2.f744ceba.chunk.js.LICENSE.txt": "/static/js/2.f744ceba.chunk.js.LICENSE.txt",
+    "static/media/notification-2-line.673f41ba.svg": "/static/media/notification-2-line.673f41ba.svg",
+    "static/media/swami2.808446dc.png": "/static/media/swami2.808446dc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3a77a8d.js",
-    "static/js/2.94715892.chunk.js",
-    "static/css/main.e101a904.chunk.css",
-    "static/js/main.16a895bc.chunk.js"
+    "static/js/runtime-main.da57d069.js",
+    "static/js/2.f744ceba.chunk.js",
+    "static/css/main.c5407f27.chunk.css",
+    "static/js/main.b0b681ea.chunk.js"
   ]
 }
